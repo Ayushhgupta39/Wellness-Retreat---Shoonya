@@ -14,7 +14,7 @@ const RetreatCard: FC<Props> = ({ retreat }) => {
       className="bg-custom_brown opacity-100 cursor-pointer m-4 p-4 rounded-lg shadow-lg flex flex-col border border-[#e5e7eb]"
     >
       <div className="mb-4">
-        <img className="rounded-lg sm:h-40" src={retreat.image} alt="retreat" />
+        <img className="rounded-lg sm:h-40 object-cover" src={retreat.image} alt="retreat" />
       </div>
 
       <div className="mb-2">
