@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a frontend assignment for the role of Frontend Developer at Shoonya Life. It's a responsive web application that showcases wellness retreats, allowing users to browse, filter, and view detailed information about various retreat offerings.
+This project is an assignment by Ayush Gupta for the role of Frontend Developer at Shoonya Life. It's a responsive web application that showcases wellness retreats, allowing users to browse, filter, and view detailed information about various retreat offerings.
 
 ## Features
 
